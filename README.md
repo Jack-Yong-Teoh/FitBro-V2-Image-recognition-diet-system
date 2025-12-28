@@ -1,7 +1,6 @@
 # 🥗 FitBro V2: Intelligent Image-Recognition Diet System
 ### *Final Year Project (FYP) - Revolutionizing Nutritional Tracking with Computer Vision*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-blue.svg)](#)
 [![Computer Vision](https://img.shields.io/badge/AI-YOLOv8%20%2F%20TensorFlow-orange.svg)](#)
 [![Mobile](https://img.shields.io/badge/Mobile-React%20Native%20%2F%20Flutter-61dafb.svg)](#)
